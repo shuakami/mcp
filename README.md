@@ -1,5 +1,8 @@
 # MCP 工具集汇总
 
+[English Version](README-EN.md)
+
+
   <img src="https://img.shields.io/github/stars/shuakami/mcp-github?style=flat-square&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/last-commit/shuakami/mcp-github?style=flat-square&color=blue" alt="最后更新" />
   <img src="https://img.shields.io/badge/平台-Windows%20%7C%20macOS%20%7C%20Linux-orange?style=flat-square" alt="支持平台" />
