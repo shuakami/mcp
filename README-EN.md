@@ -13,6 +13,10 @@
 - Download files
 - Manage remote servers
 
+## How to Use
+
+Please refer to the README.md in each repository for detailed instructions.
+
 ## Available MCPs
 
 ### mcp-github
