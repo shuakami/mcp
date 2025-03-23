@@ -1,11 +1,10 @@
 # MCP 工具集汇总
 
-[English Version](README-EN.md)
-
-
   <img src="https://img.shields.io/github/stars/shuakami/mcp-github?style=flat-square&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/last-commit/shuakami/mcp-github?style=flat-square&color=blue" alt="最后更新" />
   <img src="https://img.shields.io/badge/平台-Windows%20%7C%20macOS%20%7C%20Linux-orange?style=flat-square" alt="支持平台" />
+
+[English Version](README-EN.md)
 
 ## 它能干啥
 
@@ -14,16 +13,9 @@
 - 帮你下载文件
 - 帮你远程管理服务器
 
-## 如何使用
-
-每个仓库的README.md中都有使用说明，这里就不赘述了。
-
 ## 已有MCP
 
-<table>
-<tr>
-<td>
-<h3>mcp-github</h3>
+### mcp-github
 
 [![GitHub](https://img.shields.io/badge/查看-仓库-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-github)
 
@@ -38,9 +30,8 @@ cd mcp-github
 npm install
 npm run build
 ```
-</td>
-<td>
-<h3>mcp-mail</h3>
+
+### mcp-mail
 
 [![GitHub](https://img.shields.io/badge/查看-仓库-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-mail)
 
@@ -54,11 +45,8 @@ git clone https://github.com/shuakami/mcp-mail.git
 cd mcp-mail
 npm install
 ```
-</td>
-</tr>
-<tr>
-<td>
-<h3>mcp-download</h3>
+
+### mcp-download
 
 [![GitHub](https://img.shields.io/badge/查看-仓库-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-download)
 
@@ -72,9 +60,8 @@ git clone https://github.com/shuakami/mcp-download.git
 cd mcp-download
 npm install
 ```
-</td>
-<td>
-<h3>mcp-ssh</h3>
+
+### mcp-ssh
 
 [![GitHub](https://img.shields.io/badge/查看-仓库-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-ssh)
 
@@ -88,12 +75,7 @@ git clone https://github.com/shuakami/mcp-ssh.git
 cd mcp-ssh
 npm install
 ```
-</td>
-</tr>
-</table>
-
 
 ---
-
 
 求求你了给个star吧我什么都会做的喵

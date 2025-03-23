@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/github/last-commit/shuakami/mcp-github?style=flat-square&color=blue" alt="Last Update" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-orange?style=flat-square" alt="Supported Platforms" />
 
+[中文文档](README.md)
+
 ## What Can It Do
 
 - Help you manage GitHub operations
@@ -13,10 +15,7 @@
 
 ## Available MCPs
 
-<table>
-<tr>
-<td>
-<h3>mcp-github</h3>
+### mcp-github
 
 [![GitHub](https://img.shields.io/badge/View-Repository-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-github)
 
@@ -31,9 +30,8 @@ cd mcp-github
 npm install
 npm run build
 ```
-</td>
-<td>
-<h3>mcp-mail</h3>
+
+### mcp-mail
 
 [![GitHub](https://img.shields.io/badge/View-Repository-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-mail)
 
@@ -47,11 +45,8 @@ git clone https://github.com/shuakami/mcp-mail.git
 cd mcp-mail
 npm install
 ```
-</td>
-</tr>
-<tr>
-<td>
-<h3>mcp-download</h3>
+
+### mcp-download
 
 [![GitHub](https://img.shields.io/badge/View-Repository-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-download)
 
@@ -65,9 +60,8 @@ git clone https://github.com/shuakami/mcp-download.git
 cd mcp-download
 npm install
 ```
-</td>
-<td>
-<h3>mcp-ssh</h3>
+
+### mcp-ssh
 
 [![GitHub](https://img.shields.io/badge/View-Repository-2ea44f?style=flat-square)](https://github.com/shuakami/mcp-ssh)
 
@@ -81,10 +75,7 @@ git clone https://github.com/shuakami/mcp-ssh.git
 cd mcp-ssh
 npm install
 ```
-</td>
-</tr>
-</table>
 
 ---
 
-[中文文档](README.md) 
+Please give me a star and I'll do anything for you meow~ 
